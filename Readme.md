@@ -1,4 +1,7 @@
 # Repository is dedicated for building Neural Network
+Extremely greatful for the book that helped me to figure it out:
+*Tariq Rashid "Make Your Own Neural Network"*
+https://www.amazon.com/gp/product/1530826608/ref=dbs_a_def_rwt_bibl_vppi_i0
 ## prerequisites
 1. python3.6.5 installed and libraries:
 2. numpy
