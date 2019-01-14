@@ -5,8 +5,14 @@ https://www.amazon.com/gp/product/1530826608/ref=dbs_a_def_rwt_bibl_vppi_i0
 
 ## How does it work:
 ![picture](./Images_for_readme/About%20NN%20functionality.png)
+![picture](./Images_for_readme/how_to_calc_1.png)
+![picture](./Images_for_readme/how_to_calc_2.png)
+![picture](./Images_for_readme/how_to_calc_3.png)
+![picture](./Images_for_readme/how_to_calc_4.png)
+![picture](./Images_for_readme/how_to_calc_5.png)
+
 ## Prerequisites
-1. python3.6.5 installed and libraries:
+1. python 3.6.5 is installed and libraries for it (see below)
 2. numpy
 3. scipy
 4. maplotlib
