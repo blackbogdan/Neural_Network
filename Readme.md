@@ -4,7 +4,7 @@ Extremely greatful for the book that helped me to figure it out:
 https://www.amazon.com/gp/product/1530826608/ref=dbs_a_def_rwt_bibl_vppi_i0
 
 ## How does it work:
-![picture](./Images_for_readme/About\ NN\ functionality.png)
+![picture](./Images_for_readme/About%20NN%20functionality.png)
 ## Prerequisites
 1. python3.6.5 installed and libraries:
 2. numpy
